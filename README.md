@@ -64,8 +64,8 @@ I'm Paulo Neto, frontend developer and graduated in digital game programming and
 ##  <img width="34" height="34" src="https://img.icons8.com/nolan/34/group-of-projects.png" alt="group-of-projects"/> Statistic
 
 <div>
-	<img height="200em" src="https://github-readme-stats.vercel.app/api?username=PauloNetoGit&show_icons=true&theme=swift" />
-	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloNetoGit&layout=compact&theme=swift"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloNetoGit&show_icons=true&theme=swift" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloNetoGit&layout=compact&theme=swift"/>
 </div>
 
 ##  <img width="34" height="34" src="https://img.icons8.com/nolan/64/dumbbell.png" alt="dumbbell"/> Tech Stack
