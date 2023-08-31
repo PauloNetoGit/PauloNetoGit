@@ -68,7 +68,8 @@ I'm Paulo Neto, frontend developer and graduated in digital game programming and
 <div>
 	<img height="250em" src="https://github-readme-stats.vercel.app/api?username=PauloNetoGit&show_icons=true&theme=swift" />
 </div>
-##  <img width="34" height="34" src="https://img.icons8.com/nolan/64/dumbbell.png" alt="dumbbell"/>  Tech Stack
+
+##  <img width="34" height="34" src="https://img.icons8.com/nolan/64/dumbbell.png" alt="dumbbell"/> Tech Stack
 
 <table>
 	<thead>
@@ -85,7 +86,7 @@ I'm Paulo Neto, frontend developer and graduated in digital game programming and
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="930">&nbsp;</th>
+			<th colspan="2" width="800">&nbsp;</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -97,7 +98,7 @@ I'm Paulo Neto, frontend developer and graduated in digital game programming and
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="930">&nbsp;</th>
+			<th colspan="2" width="800">&nbsp;</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -109,7 +110,7 @@ I'm Paulo Neto, frontend developer and graduated in digital game programming and
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="930">&nbsp;</th>
+			<th colspan="2" width="800">&nbsp;</th>
 		</tr>
 	</thead>
 	<tbody>
