@@ -71,53 +71,43 @@ I'm Paulo Neto, frontend developer and graduated in digital game programming and
 ##  <img width="34" height="34" src="https://img.icons8.com/nolan/64/dumbbell.png" alt="dumbbell"/> Tech Stack
 
 <table>
-	<thead>
-		<tr>
-			<th width="930"></th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-<img width="64" height="64" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/>
-        <br/>
-<figcaption>HTML5</figcaption>&nbsp;
-<table>
-	<thead>
-		<tr>
-			<th colspan="2" width="800">&nbsp;</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-<img width="64" height="64" src="https://img.icons8.com/color/64/css3.png" alt="css3"/>
-         <br/>
-<figcaption>CSS3</figcaption>&nbsp;
-<table>
-	<thead>
-		<tr>
-			<th colspan="2" width="800">&nbsp;</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-<img width="64" height="64" src="https://img.icons8.com/external-smashingstocks-circular-smashing-stocks/64/external-atom-power-and-energy-smashingstocks-circular-smashing-stocks.png" alt="external-atom-power-and-energy-smashingstocks-circular-smashing-stocks"/>
-         <br/>
-<figcaption>React.js</figcaption>&nbsp;
-<table>
-	<thead>
-		<tr>
-			<th colspan="2" width="800">&nbsp;</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-<img width="64" height="64" src="https://img.icons8.com/color/64/angularjs.png" alt="angularjs"/>
-         <br/>
-<figcaption>Angular.js</figcaption>&nbsp;
+   <thead>
+      <tr>
+         <th width="930">
+         <img width="64" height="64" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/><br/>
+         <figcaption>HTML5</figcaption>&nbsp;
+	 </th>
+      </tr>
+   </thead>
+	
+   <thead>
+      <tr>
+         <th width="800">
+         <img width="64" height="64" src="https://img.icons8.com/color/64/css3.png" alt="css3"/><br/>
+         <figcaption>CSS3</figcaption>&nbsp;
+   	 </th>
+      </tr>
+   </thead>
+   
+   <thead>
+      <tr>
+         <th width="930">
+         <img width="64" height="64" src="https://img.icons8.com/external-smashingstocks-circular-smashing-stocks/64/external-atom-power-and-energy-smashingstocks-circular-smashing-stocks.png" alt="external-atom-power-and-energy-smashingstocks-circular-smashing-stocks"/><br/>
+         <figcaption>React.js</figcaption>&nbsp;
+	 </th>
+      </tr>
+   </thead>
+   
+  <thead>
+      <tr>
+         <th width="930">
+         <img width="64" height="64" src="https://img.icons8.com/color/64/angularjs.png" alt="angularjs"/><br/>
+         <figcaption>Angular.js</figcaption>&nbsp;
+	 </th>
+      </tr>
+   </thead>
+
+</table>
 
 ***
 
