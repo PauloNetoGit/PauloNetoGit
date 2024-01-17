@@ -9,7 +9,7 @@
 </div>
 
 <h2 align="center">
-   < Frontend-Developer />
+   < DevOps Engineer />
 </h2>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 Hey there 👋
 
-I'm Paulo Neto, frontend developer and graduated in digital game programming and postgraduate in cloud computing projects.
+I'm Paulo Neto, DevOps engineer and graduated in digital game programming and postgraduate in cloud computing projects.
 
 ## <img width="34" height="34" src="https://img.icons8.com/nolan/64/pin.png" alt="pin"/> Pinned Repositories
 
@@ -74,8 +74,8 @@ I'm Paulo Neto, frontend developer and graduated in digital game programming and
    <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/><br/>
-         <figcaption>HTML5</figcaption>&nbsp;
+         <img width="64" height="64" src="https://img.icons8.com/?size=512&id=49498&format=png"/><br/>
+         <figcaption>Linux</figcaption>&nbsp;
 	 </th>
       </tr>
    </thead>
@@ -83,8 +83,8 @@ I'm Paulo Neto, frontend developer and graduated in digital game programming and
    <thead>
       <tr>
          <th width="800">
-         <img width="64" height="64" src="https://img.icons8.com/color/64/css3.png" alt="css3"/><br/>
-         <figcaption>CSS3</figcaption>&nbsp;
+         <img width="64" height="64" src="https://img.icons8.com/?size=512&id=GOHWqwnSE8Sv&format=png"/><br/>
+         <figcaption>Docker</figcaption>&nbsp;
    	 </th>
       </tr>
    </thead>
@@ -92,8 +92,8 @@ I'm Paulo Neto, frontend developer and graduated in digital game programming and
    <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://img.icons8.com/external-smashingstocks-circular-smashing-stocks/64/external-atom-power-and-energy-smashingstocks-circular-smashing-stocks.png" alt="external-atom-power-and-energy-smashingstocks-circular-smashing-stocks"/><br/>
-         <figcaption>React.js</figcaption>&nbsp;
+         <img width="64" height="64" src="https://img.icons8.com/color/48/kubernetes.png"/><br/>
+         <figcaption>Kubernetes</figcaption>&nbsp;
 	 </th>
       </tr>
    </thead>
@@ -101,8 +101,8 @@ I'm Paulo Neto, frontend developer and graduated in digital game programming and
   <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://img.icons8.com/color/64/angularjs.png" alt="angularjs"/><br/>
-         <figcaption>Angular.js</figcaption>&nbsp;
+         <img width="64" height="64" src="https://img.icons8.com/fluency/48/azure-1.png"/><br/>
+         <figcaption>Azure</figcaption>&nbsp;
 	 </th>
       </tr>
    </thead>
