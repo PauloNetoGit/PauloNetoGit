@@ -9,7 +9,7 @@
 </div>
 
 <h2 align="center">
-   < DevOps Engineer />
+   < Back-end Developer />
 </h2>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 Hey there 👋
 
-I'm Paulo Neto, DevOps engineer and graduated in digital game programming and postgraduate in cloud computing projects.
+I'm Paulo Neto, software engineer and graduated in digital game programming and postgraduate in cloud computing projects.
 
 ## <img width="34" height="34" src="https://img.icons8.com/nolan/64/pin.png" alt="pin"/> Pinned Repositories
 
@@ -74,8 +74,8 @@ I'm Paulo Neto, DevOps engineer and graduated in digital game programming and po
    <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://img.icons8.com/?size=512&id=49498&format=png"/><br/>
-         <figcaption>Linux</figcaption>&nbsp;
+         <img width="64" height="64" src="https://img.icons8.com/?size=64&id=FRRACRKRsw2s&format=png"/><br/>
+         <figcaption>Java | Spring Boot</figcaption>&nbsp;
 	 </th>
       </tr>
    </thead>
@@ -83,8 +83,8 @@ I'm Paulo Neto, DevOps engineer and graduated in digital game programming and po
    <thead>
       <tr>
          <th width="800">
-         <img width="64" height="64" src="https://img.icons8.com/?size=512&id=GOHWqwnSE8Sv&format=png"/><br/>
-         <figcaption>Docker</figcaption>&nbsp;
+         <img width="64" height="64" src="https://img.icons8.com/?size=64&id=59925&format=png"/><br/>
+         <figcaption>Node.js</figcaption>&nbsp;
    	 </th>
       </tr>
    </thead>
@@ -92,8 +92,8 @@ I'm Paulo Neto, DevOps engineer and graduated in digital game programming and po
    <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://img.icons8.com/color/48/kubernetes.png"/><br/>
-         <figcaption>Kubernetes</figcaption>&nbsp;
+         <img width="64" height="64" src="https://img.icons8.com/?size=64&id=59952&format=png"/><br/>
+         <figcaption>SQL</figcaption>&nbsp;
 	 </th>
       </tr>
    </thead>
@@ -101,7 +101,7 @@ I'm Paulo Neto, DevOps engineer and graduated in digital game programming and po
   <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://img.icons8.com/fluency/48/azure-1.png"/><br/>
+         <img width="64" height="64" src="https://img.icons8.com/?size=64&id=43612&format=png"/><br/>
          <figcaption>Azure</figcaption>&nbsp;
 	 </th>
       </tr>
