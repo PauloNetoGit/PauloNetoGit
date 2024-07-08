@@ -74,8 +74,8 @@ I'm Paulo Neto, software engineer and graduated in digital game programming and 
    <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://img.icons8.com/?size=64&id=FRRACRKRsw2s&format=png"/><br/>
-         <figcaption>Java | Spring Boot</figcaption>&nbsp;
+         <img width="64" height="64" src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png"/><br/>
+         <figcaption>Python</figcaption>&nbsp;
 	 </th>
       </tr>
    </thead>
