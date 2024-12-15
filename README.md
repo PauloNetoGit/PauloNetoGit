@@ -5,11 +5,12 @@
 
 <div align="center">
    <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
-   <img height="380em" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbcJqRBicHDA_PjBcBB9nEU-CA_rilanOpsHUlwO7SqOXga2U4-HswC1jt-QYgfw_pGpq_QtfpyTXSf6192CqWBYx5psA=w1366-h645"/>
+   <img height="380em" src="https://drive.google.com/uc?export=view&id=1_694zjmYykGZDOmgu-6IQ5gG0yAQ1avb" alt="Esse sou eu. rsrs">
+
 </div>
 
 <h2 align="center">
-   < Back-end Developer />
+   < Front-end Developer />
 </h2>
 
 <div align="center">
@@ -74,8 +75,8 @@ I'm Paulo Neto, software engineer and graduated in digital game programming and 
    <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png"/><br/>
-         <figcaption>Python</figcaption>&nbsp;
+         <img width="64" height="64" src="https://github.com/user-attachments/assets/fd8947aa-2e37-4964-95fe-50579b66934b"/><br/>
+         <figcaption>React.js</figcaption>&nbsp;
 	 </th>
       </tr>
    </thead>
@@ -83,8 +84,8 @@ I'm Paulo Neto, software engineer and graduated in digital game programming and 
    <thead>
       <tr>
          <th width="800">
-         <img width="64" height="64" src="https://img.icons8.com/?size=64&id=59925&format=png"/><br/>
-         <figcaption>Node.js</figcaption>&nbsp;
+         <img width="64" height="64" src="https://cdn-icons-png.flaticon.com/512/7531/7531782.png"/><br/>
+         <figcaption>Javascript</figcaption>&nbsp;
    	 </th>
       </tr>
    </thead>
@@ -92,8 +93,8 @@ I'm Paulo Neto, software engineer and graduated in digital game programming and 
    <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://img.icons8.com/?size=64&id=59952&format=png"/><br/>
-         <figcaption>SQL</figcaption>&nbsp;
+         <img width="64" height="64" src="https://cdn-icons-png.flaticon.com/512/8099/8099498.png"/><br/>
+         <figcaption>HTML</figcaption>&nbsp;
 	 </th>
       </tr>
    </thead>
@@ -101,13 +102,10 @@ I'm Paulo Neto, software engineer and graduated in digital game programming and 
   <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://img.icons8.com/?size=64&id=43612&format=png"/><br/>
-         <figcaption>Azure</figcaption>&nbsp;
+         <img width="64" height="64" src="https://cdn-icons-png.flaticon.com/512/7531/7531668.png"/><br/>
+         <figcaption>CSS</figcaption>&nbsp;
 	 </th>
       </tr>
    </thead>
 
 </table>
-
-***
-
