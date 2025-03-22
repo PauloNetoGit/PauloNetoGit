@@ -80,21 +80,12 @@ I'm Paulo Neto, software engineer and graduated in digital game programming and 
 	 </th>
       </tr>
    </thead>
-	
-   <thead>
-      <tr>
-         <th width="800">
-         <img width="64" height="64" src="https://cdn-icons-png.flaticon.com/512/7531/7531782.png"/><br/>
-         <figcaption>Javascript</figcaption>&nbsp;
-   	 </th>
-      </tr>
-   </thead>
    
    <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://cdn-icons-png.flaticon.com/512/8099/8099498.png"/><br/>
-         <figcaption>HTML</figcaption>&nbsp;
+         <img width="64" height="64" src="https://prepr.io/_next/image?url=https%3A%2F%2F6rl8rq40yvya.b-cdn.net%2F5sgp74utg9y6-next-blue-main.png&w=1080&q=75"/><br/>
+         <figcaption>Next.js</figcaption>&nbsp;
 	 </th>
       </tr>
    </thead>
