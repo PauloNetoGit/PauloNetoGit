@@ -93,8 +93,8 @@ I'm Paulo Neto, software engineer and graduated in digital game programming and 
   <thead>
       <tr>
          <th width="930">
-         <img width="64" height="64" src="https://cdn-icons-png.flaticon.com/512/7531/7531668.png"/><br/>
-         <figcaption>CSS</figcaption>&nbsp;
+         <img width="64" height="64" src="https://cdn-icons-png.flaticon.com/512/15484/15484402.png"/><br/>
+         <figcaption>Angular</figcaption>&nbsp;
 	 </th>
       </tr>
    </thead>
